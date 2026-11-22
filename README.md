@@ -2,7 +2,7 @@
 
 - **Nama**: Dwi Zahra Nabilah Hadi
 - **NIM**: 240605110251
-- **Kelas Praktikum**: Mobile Programming Practicum A
+- **Kelas Praktikum**: A
 
 | No | Tgl | Praktikum ke | Topik | Laporan | Repository |
 | :---: | :---: | :---: | :--- | :---: | :---: |
