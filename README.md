@@ -8,7 +8,7 @@
 | :---: | :---: | :---: | :--- | :---: | :---: |
 | 1 | 03-09-2026 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://github.com/nabilarchive/Practicum-Mobile-Programming/blob/main/240605110251_Dwi%20Zahra%20Nabilah%20Hadi_Modul%201.pdf) | - |
 | 2 | 03-09-2026 | 01 | Widget Row dan Column | [Modul 02](https://github.com/nabilarchive/Practicum-Mobile-Programming/blob/main/240605110251_Dwi%20Zahra%20Nabilah%20Hadi_Modul%202.pdf) | [Program](https://github.com/nabilarchive/Practicum-Mobile-Programming/tree/main/modul_1) |
-| 3 | 10-09-2026 | 02 | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://github.com/nabilarchive/Practicum-Mobile-Programming/blob/main/240605110251_Dwi%20Zahra%20Nabilah%20Hadi_Modul%203.pdf) | [Program](#) |
+| 3 | 10-09-2026 | 02 | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://github.com/nabilarchive/Practicum-Mobile-Programming/blob/main/240605110251_Dwi%20Zahra%20Nabilah%20Hadi_Modul%203.pdf) | [Program](https://github.com/nabilarchive/Practicum-Mobile-Programming/tree/main/modul_2) |
 | 4 | 10-09-2026 | 02 | Widget Flexible dan Expanded | [Modul 04](https://github.com/nabilarchive/Practicum-Mobile-Programming/blob/main/240605110251_Dwi%20Zahra%20Nabilah%20Hadi_Modul%204.pdf) | [Program](#) |
 | 5 | 17-09-2026 | 03 | Widget SizedBox, Spacer, dan Card | [Modul 05](https://github.com/nabilarchive/Practicum-Mobile-Programming/blob/main/240605110251_Dwi%20Zahra%20Nabilah%20Hadi_Modul%205.pdf) | [Program](#) |
 | 6 | 17-09-2026 | 03 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://github.com/nabilarchive/Practicum-Mobile-Programming/blob/main/240605110251_Dwi%20Zahra%20Nabilah%20Hadi_Modul%206.pdf) | [Program](#) |
